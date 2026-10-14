@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# smart-attendance-backend
-=======
 # Smart Attendance & Classroom Verification: Backend (ATT)
 
 Node.js + Express + PostgreSQL backend for the Smart Attendance project.
@@ -64,4 +61,3 @@ Send the login token as `Authorization: Bearer <token>` on every request.
 ## Notes
 - Authorization is enforced on the backend for every endpoint.
 - Attendance flags are advisory only and can be unavailable without blocking attendance capture.
->>>>>>> ATT-backend-initial
